@@ -1,3 +1,7 @@
 first line by first-user
 
+<<<<<<< HEAD
 second line by sec-user
+=======
+Unknown line by unknown-user
+>>>>>>> e6746445e29701d4815299564156d8633d858857
