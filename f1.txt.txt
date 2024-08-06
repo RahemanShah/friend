@@ -2,5 +2,7 @@ f1 file here
 Thanks
 
 
-
 //Thi is for stash apply man
+=======
+thi is for staged
+
